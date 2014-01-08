@@ -1,0 +1,23 @@
+e@ubuntu:/host/Users/E/Dropbox/Eclipse/Workspace/J-Matrix/bin$ java TestClient3
+
+
+
+HeapSize is 61,538,304  (or  0.000000% used)
+  with  61,215,856 free.  
+(heapMaxSize is 913,440,768) 
+
+
+
+
+***ALL OPERATIONS COMPLETED.***
+
+
+
+Elapsed Time is:  37.172020 seconds.
+
+     9,000 = number of matrices created  (each matrix is 100 x 100).
+HeapSize is 913,440,768  (or  100.000000% used)
+  with  114,650,984 free.  
+(heapMaxSize is 913,440,768)
+e@ubuntu:/host/Users/E/Dropbox/Eclipse/Workspace/J-Matrix/bin$ 
+
